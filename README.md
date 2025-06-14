@@ -29,7 +29,7 @@ pip install requests
 
 ## 🔑 Get NewsAPI Key
 
-1. Visit [NewsAPI](NewsAPI.org).
+1. Visit NewsAPI.org.
 
 2. Sign up and generate your free API key.
 
@@ -80,6 +80,6 @@ Output:
 
 ## 🙌 Acknowledgements
 
-- [NewsAPI](NewsAPI.org) — for providing a simple and powerful news access API.
+- NewsAPI.org — for providing a simple and powerful news access API.
 
 ---
