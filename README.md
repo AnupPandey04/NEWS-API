@@ -78,7 +78,7 @@ Output:
 
 ---
 
-## 🙌 Acknowledgements\
+## 🙌 Acknowledgements
 
 - NewsAPI.org — for providing a simple and powerful news access API.
 
